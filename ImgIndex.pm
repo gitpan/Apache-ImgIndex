@@ -66,7 +66,7 @@ use File::Basename qw(fileparse);
 
 use vars qw(%gOptions @gOutput $gOutputStarted $VERSION);
 
-$VERSION = 0.01;
+$VERSION = 0.02;
 
 %gOptions = (
 	     'thumb-size' => '100x75',    # set thumbnail size
